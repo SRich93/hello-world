@@ -1,3 +1,3 @@
 # hello-world
-Test repository
+Test repository.
 Hopefully this edit will work.
